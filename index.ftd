@@ -91,11 +91,11 @@ spacing.fixed.px: 10
 
 -- button.secondary:
 title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:singhkulvinder1805@gmail.com
 
 -- button.primary:
 title: Schedule a Meeting
-link: YOUR_MEETING_HANLDE
+link: zoom
 isNewTab: true
 
 -- end: ftd.row
@@ -120,11 +120,11 @@ link: https://github.com/mrsinghjiii
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: https://instagram.com/YOUR_INSTAGRAM_USERNAME
+link: https://instagram.com/YOUR_INSTAGRAM_USERNAMEmr_singh_jiii
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:singhkulvinder1805@gmail.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
